@@ -1,7 +1,7 @@
 # Olá! Sou Valney Filho
 
-  - 🔭 Atualmente trabalhando como Assistente de Informática no Atacadão SA
-  - 🌱 Aprendendo sobre C#, .NET, APIs
+  - 🔭 Atualmente trabalhando como Desenvolvedor Python/Django em CODED/CED
+  - 🌱 Aprendendo sobre Python, Django, FastAPI, APIs, CI/CD, C#, .NET
   - 😄 Pronouns: He/Him
 
  ##
